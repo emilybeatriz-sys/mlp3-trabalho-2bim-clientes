@@ -53,7 +53,7 @@ repositorio/
 └── aula/
     ├── docker-compose.yml
     ├── pom.xml
-        └── src/
+    └── src/
         ├── main/
         │   ├── java/com/example/aula/
         │   │   ├── AulaApplication.java
